@@ -1,0 +1,77 @@
+***********************************
+Problem 1
+*********************************** 
+
+Write pseudocode to create a program that determines whether a number is positive, negative, or zero. Use deductive reasoning to establish the logical flow of the program.
+
+1. Identify the Premises:
+	#If a number is above 0 then it is positive
+	#If a number is below 0 then it is negative
+	
+
+2. Analyze the Premises:
+	# A positive number is above 0
+	# A negative number is below 0
+	# Zero is neither positive or negative
+
+3. Draw a Conclusion:
+	# A number is an integer that can have either a positive or negative value
+	# Zero is an integer without a positive or negative value
+
+4. Test the Conclusion:
+	# Test the logic by seeing if the integer entered by the user is positive, negative or neither.
+	
+5. Explanation:
+
+Input: The user is prompted to input an integer.
+
+Conditional Checks: Using the premises: 
+	#If an Integer is above or below 0
+
+
+6. Write the Pseudocode:
+
+	Start
+	  Ask user for number
+	  If number is greater than 0
+	    display to user Positive
+	  Otherwise if number is less than 0
+	    display to user Negative
+	  otherwise display to user Zero
+	End
+
+***********************************
+Problem 2
+*********************************** 
+Write pseudocode to create a program that checks whether a person is eligible for a senior citizen discount. The program should take the person's age as input. If the age is 65 or older, print "Eligible for senior discount"; otherwise, print "Not eligible for senior discount".
+
+1. Identify the Premises:
+	#If age is above 65 print "Eligible for senior discount"
+	#If age is below 65 print "Not eligible for senior discount"
+	
+
+2. Analyze the Premises:
+	# An age above 65 is Eligible
+	# An age below 65 is not eligible
+
+3. Draw a Conclusion:
+	# You are eligible for a senior discount if your age is above 65
+
+4. Test the Conclusion:
+	# Test the logic by seeing if the age entered by the user is above or below 65.
+5. Explanation:
+
+Input: The user is prompted to input an age.
+
+Conditional Checks: Using the premises: 
+	#If the age entered is above or below 65.
+
+
+6. Write the Pseudocode:
+	Start
+	Ask user for age input
+	If age entered is above 65
+	  Display to user "Eligible for senior discount"
+	Otherwise if age entered is below 65
+ 	  Display to user "Not eligible for senior discount"
+	End

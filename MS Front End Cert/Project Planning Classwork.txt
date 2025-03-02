@@ -1,0 +1,28 @@
+Plan a front-end project for a blog platform where local writers can submit, edit, and publish articles.
+
+1. Project Requirements 
+	# Purpose: Platform will allow local writers to submit content.
+	# Target Audience: Local writers.
+	# Features: Public blog that categorizes articles based on tags, Article approval system, Article publishing system
+
+2. Objectives: 
+	# Publicly Viewable Blog 
+   	# Article Publishing
+	# Article Approval System
+   Objective Rationale: These goals will create a page for writers to share their stories and a place for readers to discover content that appeals to them.
+
+3. Create Timelines:
+	# Week 1: Design wireframes for the article publishing system and the public blog.
+	# Week 2: Build the public blog and implement search tags and categories.
+	# Week 3: Build both the article publishing system and article approval system.
+	# Week 4: Test the submission process to ensure smooth operation.
+	# Week 5: Run final tests and proceed to site deployment.
+
+4. Identify Resources:
+	# Technologies: Angular, Firebase for database and authentication.
+ 
+	# Tools: GitHub for version control, Firebase Hosting for deployment.
+
+	# Additional Resources: Articles and editorial guidelines.
+
+  

@@ -1,0 +1,24 @@
+Task: Create a flowchart and pseudocode for a simple program that checks if a number is even or odd. If the number is even, the program should print "Even number"; otherwise, it should print "Odd number". 
+
+Use the same steps as the examples:
+
+Define the problem: Program needed to determine if a number is even or odd.
+
+Identify Key Processes: # User integer input interface
+			# Program prints message declaring if the integer is even or odd
+
+Draw the Flowchart: # (Oval) Program start
+	 	    # (Rectangle) Prompt user for integer input
+	 	    # (Diamond) 
+	 	    # (If Odd) Print "Odd Number"
+	 	    # (If Even) Print "Even Number"
+		    # (Oval) Program end
+
+Transition to Pseudocode: Start
+                          Prompt the user to input a number
+			  If the number is divisible by 2 with no leftover numbers
+			    Print "Even Number"
+			  Otherwise:
+			    Print "Odd Number"
+			  End
+
