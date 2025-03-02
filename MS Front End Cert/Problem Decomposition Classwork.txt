@@ -1,0 +1,67 @@
+Problem 1: Fitness Tracking App
+
+Problem 1 Statement:
+Decompose the development of a fitness tracking app that can track users' workouts, monitor their diet, and provide health insights.
+
+Instructions:
+
+Define the main goal of the application.
+
+Use the top-down approach to break down the app into its major features.
+
+Further decompose each feature into smaller, manageable tasks.
+
+Identify opportunities for modularization.
+
+
+Main Goal:
+Create an application to track the users fitness via managing workouts, monitoring their diet, and providing health insights.
+
+Major Features: #Track workouts
+		 -Workout Log
+		# Monitor Diet
+		 - Diet Log
+		# Provide Health insights
+		 - Daily Health Recommendations
+
+Modularization: 
+		#Workout Log Module
+		#Diet Log Module
+		#Health Insight Log Module
+		#User Interface Log Module
+
+Problem 2 Statement:
+Decompose the creation of an online learning platform that supports course creation, user enrollment, content delivery, and progress tracking.
+
+Instructions:
+
+Define the main goal of the platform.
+
+Use the top-down approach to break down the platform into its major features.
+
+Further decompose each feature into smaller, manageable tasks.
+
+Identify opportunities for modularization.
+
+Main Goal:
+Create an online learning platform that supports course creation, user enrollment, content delivery, and progress tracking
+
+Major Features: 
+		#Course Creation
+		 -Creating quizzes
+		 - Creating certificates
+		 - Creating video lessons
+		#User Enrollment
+		 - Sign up
+		 - Profile Page
+		#Content Delivery
+		 - Create a playback system
+		#Progress Tracking
+		 - Create something that tells the user how far they are in the course
+
+Modularization: #Course creation module
+		#UI Module
+		#Video Upload/Playback Module
+		#User profile module
+		
+		

@@ -1,0 +1,70 @@
+Problem 1: Project Management
+Problem Statement:
+
+Decompose the development of a project management tool that includes task tracking, team collaboration, and reporting features. Decide which approach (top-down or bottom-up) is more suitable and explain why.
+
+Instructions:
+
+Identify the main goal of the tool.
+
+Select the top-down or bottom-up approach based on the problem requirements.
+
+Identify and break down the system into features and tasks.
+
+Explain why the chosen approach is appropriate.
+
+********************************************************************************
+Solution 1
+********************************************************************************
+
+Main Goal: Create a project management tool 
+
+Based on the information given it would be more beneficial to use the top-down approach.
+You already know what the tool is going to be doing.
+
+Top Down Approach: Project management 
+
+Sub-Goals: #Task Tracking
+	    -Task Creation
+	    -Task Assignment
+	   #Team Collaboration
+	    -Real time chat
+	    -
+	   #Reporting Features
+
+*********************************************************************************
+
+Problem 2: Online Health Monitoring System
+Problem Statement:
+
+Decompose the creation of an online health monitoring system that tracks physical activity, sleep, and heart rate. Decide which approach (top-down or bottom-up) is more suitable and explain why.
+
+Instructions:
+
+Identify the main goal of the system.
+
+Select the top-down or bottom-up approach based on the problem requirements.
+
+Identify and break down the system into features and tasks.
+
+Explain why the chosen approach is appropriate.
+
+********************************************************************************
+Solution 2
+********************************************************************************
+
+Main goal: create an online health monitoring system app
+
+Bottom up approach:
+Physical activity tracker module -Log steps walked, connect to wearable smart devices
+
+Sleep monitor module - Log sleep, connect to wearable smart devices
+
+Heart rate monitor module -Log heart rate, connect to wearable smart devices
+
+Explanation for choosing the bottom up approach: The primary reason for choosing the bottom up approach is to make sure each feature operates flawlessly before integration.
+
+
+
+*********************************************************************************
+
