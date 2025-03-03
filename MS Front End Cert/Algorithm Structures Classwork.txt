@@ -1,0 +1,93 @@
+Objective:
+
+Demonstrate how developers can use conditional (if/then) and binary decision structures to manage and navigate choices in programming.
+
+Description:
+
+This activity involves analyzing scenarios, selecting appropriate algorithm structures, and then writing pseudocode to implement those structures. We'll begin with two fully worked examples, followed by a task for you to complete independently.
+
+Problem 1: Discount Eligibility
+Scenario: You are tasked with creating a program to determine if a customer is eligible for a discount. The program should check the total amount a customer has spent and decide if they qualify for a discount.
+
+Instructions:
+
+Write a program that takes the total spending amount as input.
+
+If the customer has spent $100 or more, print "10% discount applied."
+
+If the customer has spent less than $100, print "No discount."
+
+***********************************************************************
+Solution 1
+***********************************************************************
+
+Start
+If total_money_spent is greater than or equal to $100
+  Print "10% discount applied"
+If total_money_spent is less than $100
+  Print "No discount applied"
+End
+
+Explanation: This pseudocode uses the amount of money spent as a decision point in the algorithm and outputs a message based on the amount spent.
+
+***********************************************************************
+
+Problem 2: Book Categorization
+Scenario: A library needs to categorize books based on their genre. You need to develop a program that helps categorize each book correctly.
+
+Instructions:
+
+Write a program that takes the genre of a book as input.
+
+If the genre is "Fiction," print "Category: Fiction."
+
+If the genre is "Non-Fiction," print "Category: Non-Fiction."
+
+If the genre is "Science Fiction," print "Category: Science Fiction."
+
+If the genre does not match any of these, print "Category: Unknown."
+***********************************************************************
+Solution 2
+***********************************************************************
+
+Start
+Set genre = "input"
+if genre is fiction
+  print "fiction"
+otherwise if genre is non-fiction
+  print "non-fiction"
+otherwise if genre is science fiction
+  print "science fiction"
+otherwise print "genre unknown"
+End
+
+Explanation: This pseudocode uses the users input as a decision point in the algorithm and displays the genre based on what the user has entered. 
+
+***********************************************************************
+
+Problem 3: Even or Odd Number
+Scenario: You need to create a program that determines whether a given number is even or odd.
+
+Instructions:
+
+Write a program that takes a number as input.
+
+If the number is even, print "Even number."
+
+If the number is odd, print "Odd number."
+
+***********************************************************************
+Solution 3
+***********************************************************************
+
+Start
+Get number
+if number is divisible by 2 with a remainder of 0 
+  print "even number"
+otherwise
+  print "odd number"
+End
+
+Explanation: This number uses division as a decision point in the algorithm and outputs a message based on the answer to the division problem.
+
+***********************************************************************
