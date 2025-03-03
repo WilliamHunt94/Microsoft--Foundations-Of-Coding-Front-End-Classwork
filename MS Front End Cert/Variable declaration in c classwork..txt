@@ -1,0 +1,39 @@
+Objective: 
+
+Reinforce understanding of variable declaration, initialization, and assignment in C# by completing code blocks with appropriate syntax and assigning values to different data types.
+
+Description: 
+
+In this activity, you'll practice declaring and initializing variables in C#. You will work with different data types, including integers, strings, doubles, and booleans. The goal is to strengthen your understanding of variable declaration and assignment through practical examples such as storing a product price or a user's admin status.
+
+Problem 1: Declaring and Initializing a Double Variable
+
+Problem Statement:
+Declare a variable to store the price of a product and initialize it with a value of 49.99.
+
+1. Instructions:
+
+Identify the appropriate data type for the variable.
+
+Declare the variable with an appropriate name.
+
+Initialize the variable with the value 49.99.
+
+2. Code the variable
+     double productPrice = 49.99;
+
+Problem 2: Declaring and Initializing a Boolean Variable
+
+Problem Statement:
+Declare a variable to store a flag indicating whether a user is an admin, and initialize it with the value true.
+
+1. Instructions:
+
+Identify the appropriate data type for the variable.
+
+Declare the variable with an appropriate name.
+
+Initialize the variable with the value true.
+
+2. Your Code Solution:
+    bool isAdmin = true;
